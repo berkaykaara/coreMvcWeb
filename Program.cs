@@ -1,4 +1,9 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using coreMvcWeb.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<coreMvcWebContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("coreMvcWebContext") ?? throw new InvalidOperationException("Connection string 'coreMvcWebContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -22,6 +27,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Account}/{action=addUser}/{id?}");
+    pattern: "{controller=Home}/{action=index}/{id?}");
 
 app.Run();
