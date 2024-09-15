@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreMvcWeb\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CA407-5649-4703-A0D4-A01360300B0D}|coreMvcWeb.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coremvcweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80CA407-5649-4703-A0D4-A01360300B0D}|coreMvcWeb.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CA407-5649-4703-A0D4-A01360300B0D}|coreMvcWeb.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coremvcweb\\views\\account\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B80CA407-5649-4703-A0D4-A01360300B0D}|coreMvcWeb.csproj|solutionrelative:views\\account\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CA407-5649-4703-A0D4-A01360300B0D}|coreMvcWeb.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coremvcweb\\models\\userdetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80CA407-5649-4703-A0D4-A01360300B0D}|coreMvcWeb.csproj|solutionrelative:models\\userdetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CA407-5649-4703-A0D4-A01360300B0D}|coreMvcWeb.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coremvcweb\\views\\account\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B80CA407-5649-4703-A0D4-A01360300B0D}|coreMvcWeb.csproj|solutionrelative:views\\account\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CA407-5649-4703-A0D4-A01360300B0D}|coreMvcWeb.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coremvcweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80CA407-5649-4703-A0D4-A01360300B0D}|coreMvcWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreMvcWeb\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreMvcWeb\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T01:19:24.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "addUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreMvcWeb\\Views\\Account\\addUser.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\addUser.cshtml",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreMvcWeb\\Views\\Account\\addUser.cshtml",
+              "RelativeToolTip": "Views\\Account\\addUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T00:47:30.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cshtml",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreMvcWeb\\Views\\Account\\User.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\User.cshtml",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreMvcWeb\\Views\\Account\\User.cshtml",
+              "RelativeToolTip": "Views\\Account\\User.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T23:38:17.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreMvcWeb\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreMvcWeb\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:32:04.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDetailsModel.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreMvcWeb\\Models\\UserDetailsModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserDetailsModel.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreMvcWeb\\Models\\UserDetailsModel.cs",
+              "RelativeToolTip": "Models\\UserDetailsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:30:42.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
